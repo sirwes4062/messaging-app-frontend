@@ -9,7 +9,7 @@ import { BsFillChatTextFill } from "react-icons/bs";
 
 const Login = () => {
   return (
-    <div className="w-screen h-screen flex flex-col justify-center items-center bg-violet-50">
+    <div className="w-screen h-screen flex flex-col justify-center items-center bg-violet-50 p-8">
       <div className="flex flex-row justify-center items-center space-x-2 mb-6">
         <div>
           <BsFillChatTextFill className="text-2xl text-indigo-400" />
